@@ -1,0 +1,59 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing : border-box;
+
+}
+
+.box{
+    margin : auto;
+    max-width: 80%;
+}
+
+form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+small{
+    display:none;
+}
+
+img{
+    width: 100%;
+    z-index: -1;
+    position: absolute;
+    opacity: 0.6;
+}
+
+p{
+    font-size : 15px;
+    color : green;
+}
+
+h1{
+    padding: 10px;
+    font-size: 50px;
+    font-family: 'Dancing Script', cursive;
+}
+
+input, textarea{
+    width:80%;
+    width: 80%;
+    margin: 11px 0px;
+    border-radius: 5px;
+    border: 2px solid black;
+    padding: 7px;
+    font-size : 16px;
+
+}
+
+button{
+    padding: 6px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid black;
+    margin-bottom: 10px;
+}
