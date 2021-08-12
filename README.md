@@ -2,3 +2,7 @@
 
 
 my first project in php, it submits form into database, and i have done validtion using jquery and front-end using html and css.
+
+
+<img width="949" alt="ct1" src="https://user-images.githubusercontent.com/70065103/129210466-0b7bc06b-eb73-4c78-a94f-4ca7485f6946.png">
+
